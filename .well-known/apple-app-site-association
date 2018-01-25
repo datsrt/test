@@ -1,0 +1,19 @@
+{
+   "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "B5U6PYYQ5R.com.samsung.SLTestApp",
+                "paths": [ "*" ]
+            },
+            {
+                "appID": "B5U6PYYQ5R.com.samsung.SLDevTest",
+                "paths": [ "*" ]
+            },
+            {
+                "appID": "B5U6PYYQ5R.com.samsung.cpa",
+                "paths": [ "*" ]
+            }
+        ]
+    }
+}
