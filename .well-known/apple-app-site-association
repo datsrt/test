@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "B5U6PYYQ5R.com.samsung.SLTestApp",
-                "paths": [ "*" ]
+                "paths": [ "/test/" ]
             },
             {
                 "appID": "B5U6PYYQ5R.com.samsung.SLDevTest",
